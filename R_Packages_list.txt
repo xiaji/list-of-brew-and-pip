@@ -66,3 +66,65 @@ assocplot, mosaicplot
 
 9、与数据挖掘软件Weka做接口
 RWeka: 通过这个接口，可以在R中使用Weka的所有算法。
+
+Package    Version
+   assertthat        0.1
+    base64enc      0.1-3
+           BH   1.58.0-1
+         brew      1.0-6
+   colorspace      1.2-6
+     corrplot       0.73
+         curl      0.9.3
+          DBI      0.3.1
+     devtools      1.9.1
+    dichromat      2.0-0
+       digest      0.6.8
+        dplyr      0.4.3
+           DT        0.1
+     dygraphs        0.5
+     evaluate        0.8
+      ggplot2      1.0.1
+        ggvis      0.4.2
+        git2r     0.11.0
+       gtable      0.1.2
+    htmltools      0.2.6
+  htmlwidgets        0.5
+       httpuv      1.3.3
+         httr      1.0.0
+     jsonlite     0.9.17
+     labeling        0.3
+     lazyeval     0.1.10
+      leaflet 1.0.1.9001
+     magrittr        1.5
+     markdown      0.7.7
+      memoise      0.2.1
+         mime        0.4
+      munsell      0.4.2
+          NLP      0.1-8
+         plyr      1.8.3
+          png      0.1-7
+        proto     0.3-10
+     quantmod      0.4-5
+           R6      2.1.1
+       raster     2.4-18
+ RColorBrewer      1.1-2
+         Rcpp     0.12.1
+     reshape2      1.4.1
+     roxygen2      5.0.0
+   rstudioapi      0.3.1
+    rversions      1.0.2
+       scales      0.3.0
+        shiny     0.12.2
+         slam     0.1-32
+           sp      1.1-1
+      stringi      1.0-1
+      stringr      1.0.0
+           tm      0.6-2
+          TTR     0.23-0
+      whisker      0.3-2
+    wordcloud        2.5
+         xml2      0.1.2
+       xtable      1.7-4
+          xts      0.9-7
+         yaml     2.1.13
+          zoo     1.7-12
