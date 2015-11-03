@@ -1,0 +1,18 @@
+http://norvig.com/spell-correct.html
+http://swifter.tips/
+http://swiftcafe.io/
+http://ntz-develop.blogspot.co.id/2011/03/fuzzy-string-search.html
+http://www3.cs.stonybrook.edu/~algorith/files/approximate-pattern-matching.shtml
+https://fuzzystring.codeplex.com/
+http://www.chokkan.org/software/simstring/
+https://en.wikipedia.org/wiki/Approximate_string_matching
+http://users.erols.com/jsaunders/papers/aitechniques.htm
+http://people.scs.carleton.ca/~oommen/papers/ReportIP4.pdf
+http://www.perlmonks.org/?node_id=816086
+http://developer.apple.com/downloads/index.action?name=for%20Xcode
+http://artent.net/2013/06/03/approximation-of-kl-distance-between-mixture-of-gaussians/
+fuzzy matching algorithms in artificial intelligence
+https://www.v2ex.com/t/204752
+http://stackoverflow.com/questions/8456542/what-algorithms-are-used-for-seaching-subwords-in-words
+http://stackoverflow.com/questions/1647801/algorithm-question-on-finding-all-valid-words-in-dictionary
+http://blog.sina.com.cn/s/blog_6fbae11201011a2x.html
