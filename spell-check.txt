@@ -20,4 +20,5 @@ http://janfan.github.io/chinese/2014/11/16/string-algorithm.html
 https://www.ics.uci.edu/~eppstein/161/960227.html
 http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
 https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/ievenshtein_distance
-http://bommaritollc.com/2014/06/fuzzy-match-sentences-python/
+http://bommaritollc.com/2014/06/fuzzy-match-sentences-pytho/
+test
